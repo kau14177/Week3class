@@ -5,6 +5,9 @@
 package week3;
 
 /** Local rep - steps -1. initialize versioning, .gitconfig, .gitignore, .commit, 
+ *  Push the code to github remote repository
+ *  Pull the code to github remote repository
+ *  
  *
  * @author Gagandeep Kaur
  */
@@ -14,9 +17,11 @@ public class Week3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) 
+        
     {
        System.out.println("Learning github operations");
-       System.out.println("This is week 3");  
+       System.out.println("Learning github Push");
+       System.out.println("Learning github Pull"); 
     }
     
 }
