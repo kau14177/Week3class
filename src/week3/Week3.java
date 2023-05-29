@@ -22,7 +22,7 @@ public class Week3 {
        System.out.println("Learning github operations");    // Push, Pull, Fetch, Merge
        System.out.println("Learning github Push");          // Push
        System.out.println("Learning github Pull");          // Pull
-       System.out.println("Learning github fetch+merge"); // Fetch & Merge
+       System.out.println("Learning github fetch+merge");   // Fetch & Merge
     }
     
 }
