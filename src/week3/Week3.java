@@ -15,8 +15,8 @@ public class Week3 {
      */
     public static void main(String[] args) 
     {
-        
-        
+       System.out.println("Learning github operations");
+       System.out.println("This is week 3");  
     }
     
 }
